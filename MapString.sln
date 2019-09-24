@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapStringLib", "MapStringLib\MapStringLib.csproj", "{6ABCB7F8-F9F3-44A6-A1FB-E52DA02C2AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{2EE229C8-9A26-4404-B65C-DDE5E24ED435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABCB7F8-F9F3-44A6-A1FB-E52DA02C2AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABCB7F8-F9F3-44A6-A1FB-E52DA02C2AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABCB7F8-F9F3-44A6-A1FB-E52DA02C2AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABCB7F8-F9F3-44A6-A1FB-E52DA02C2AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE229C8-9A26-4404-B65C-DDE5E24ED435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE229C8-9A26-4404-B65C-DDE5E24ED435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE229C8-9A26-4404-B65C-DDE5E24ED435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE229C8-9A26-4404-B65C-DDE5E24ED435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EAC343F-5394-464C-9714-358141510E3F}
+	EndGlobalSection
+EndGlobal
